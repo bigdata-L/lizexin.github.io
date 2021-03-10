@@ -1,2 +1,2 @@
 # lizexin.github.io
-hexo+github仓库
+<h1>helloWord</h1>
